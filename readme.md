@@ -39,7 +39,7 @@ These resources are built and maintained by the Allo team
 Stay up to date with the latest information on Allo Protocol.
 
 - [ Official Website ](https://allo.gitcoin.co/?utm_source=awesome-allo&utm_medium=referral&utm_content=Allo)
-- [ Twitter Account ](https://twitter.com/alloprotocol)
+- [ X (formerly Twitter) Account ](https://x.com/alloprotocol)
 - [ Official Blog ](https://docs.allo.gitcoin.co/blog)
 - [GitHub Discussion](https://github.com/orgs/allo-protocol/discussions)
 
